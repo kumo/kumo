@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on rewriting [RomanNums](https://github.com/kumo/RomanNums) in SwiftUI
 - 🤖 I'm hoping to rewrite my [StoryBot](https://github.com/kumo/StoryBot), [DownloadBot](https://github.com/kumo/DownloadBot), and [LanguageLearningBot](https://github.com/kumo/LanguageLearningBot) Telegram bots, plus [roman-bot](https://github.com/kumo/roman-bot) Twitter bot
 - 📱 I'm hoping to rewrite my [RomanNums](https://github.com/kumo/RomanNums), [RomanDates](https://github.com/kumo/RomanDates), _Numbery_, _Number Bonds_, and other iOS apps
+- 🤔 I’m looking for help with my [PartialRange](https://github.com/kumo/partial_range.rb) Ruby library and my [RCSubtitleParse](https://github.com/kumo/RCSubtitleParser) Swift library
