@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Spellingly](https://github.com/kumo/Spellingly) (iOS) and [telecom_router_bot](https://github.com/kumo/telecom_router_bot) (Telegram bot)
-- 🌱 I’m currently learning **Rust and Elixir**
+- 🌱 I’m currently learning **Rust** and **Elixir**
 - 👯 I’m looking to collaborate on rewriting [RomanNums](https://github.com/kumo/RomanNums) in SwiftUI
 - 🤖 I'm hoping to rewrite my [StoryBot](https://github.com/kumo/StoryBot), [DownloadBot](https://github.com/kumo/DownloadBot), and [LanguageLearningBot](https://github.com/kumo/LanguageLearningBot) Telegram bots, plus [roman-bot](https://github.com/kumo/roman-bot) Twitter bot
 - 📱 I'm hoping to rewrite my [RomanNums](https://github.com/kumo/RomanNums), [RomanDates](https://github.com/kumo/RomanDates), _Numbery_, _Number Bonds_, and other iOS apps
